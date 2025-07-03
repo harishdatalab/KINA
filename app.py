@@ -84,9 +84,8 @@ with TABS[0]:
             Please generate a full markdown learning roadmap that includes:
             1. 📘 Stage-by-stage steps with estimated timelines.
             2. 🎨 Visual-style flow or layout described in text if user chose 'Visual'.
-            3. 📺 Three **specific YouTube videos** including titles and real video **hyperlinks**.
-            4. 📚 Recommended resources, tools or tutorials related to the goal.
-            5. 🧠 Personalized study tips matching the selected learning style.
+            3. 📺 one **specific YouTube videos** including titles and real video **hyperlinks**.
+         
 
             Format all sections clearly with markdown headers (##) and bullet points.
             Example for video: [How Neural Networks Learn](https://www.youtube.com/watch?v=aircAruvnKk)
