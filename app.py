@@ -158,7 +158,7 @@ with TABS[2]:
     if st.button("🎯 Generate Quiz"):
         prompt = f"""
         You are a quiz master.
-        Generate 5 multiple choice questions (MCQs) for the topic: {topic}.
+        Generate 1 multiple choice questions (MCQs) for the topic: {topic}.
         Each question must include:
         - Question
         - Four options (a, b, c, d)
